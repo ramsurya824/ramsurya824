@@ -45,7 +45,7 @@ I specialize in **secure coding**, **malware development (for research purposes)
 ---
 
 ### 📫 Connect With Me  
-[![LinkedIn](https://www.linkedin.com/in/ram-surya-suresh-kumar-0886662ba/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ram-surya-suresh-kumar-0886662ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/R4mSurya)  
 
 ---
